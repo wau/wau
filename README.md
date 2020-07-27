@@ -1,3 +1,1 @@
-<p align="center">
-    <img src="/assets/pikachu.gif"/>
-</p>
+![image](https://github.com/wau/wau/blob/master/assets/pikachu.gif)
